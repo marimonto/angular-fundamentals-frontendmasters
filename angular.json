@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -92,6 +93,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -123,6 +125,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-fundamentals-frontendmasters"
+    }
+  },
+  "defaultProject": "angular-fundamentals-frontendmasters",
+  "cli": {
+    "analytics": "9eee9e4b-5f38-4a62-9a51-1d3130d91197"
+  }
 }
